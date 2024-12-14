@@ -1,8 +1,7 @@
 
 .armyVehicle {
     display: inline-block;
-      height: 210px;
-      width: 210px;
+      width: 100%;
     object-fit: cover;
       
     }
